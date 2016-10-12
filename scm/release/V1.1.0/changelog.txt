@@ -1,0 +1,18 @@
+
+
+V2.9.0版本    2016年9月28日创建
+
+###########################
+修改时间:		2016年9月29日
+修改人：		闫燕飞
+修改内容：		QRCodeBatchController.java
+			TagSNBatchController.java 加上执行效率的时间日志，并将createSNAfter方法的主要业务迁移至TagSNBatchService.java中
+			TagSNBaseService.java 修改生成sn码的核心方法getPK；新增insertSN(StringBuffer sql)批量插入方法
+			manage.jsp增加单批次的数量上限为1000
+修改原因：		标签生成效率极低，优化后生成五万条数据由原来的一百多秒耗时变为十几秒，效率提升近七倍
+			
+是否测试：		是
+是否更新现网：	
+更新现网时间：	
+###########################
+

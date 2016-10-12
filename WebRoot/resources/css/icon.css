@@ -1,0 +1,36 @@
+.icon-user{
+	background:url('../images/extjs_icons/user/user.png') no-repeat center center;
+}
+.icon-user_delete{
+	background:url('../images/extjs_icons/user/user_delete.png') no-repeat center center;
+}
+.icon-blank{
+	background:url('../images/extjs_icons/blank.png') no-repeat center center;
+}
+.icon-table_add{
+	background:url('../images/extjs_icons/table/table_add.png') no-repeat center center;
+}
+.icon-table{
+	background:url('../images/extjs_icons/table/table.png') no-repeat center center;
+}
+.icon-pie{
+	background:url('../images/extjs_icons/chart/chart_pie.png') no-repeat center center;
+}
+.icon-map{
+	background:url('../images/extjs_icons/photoAndPic/pictures.png') no-repeat center center;
+}
+.icon-tableErr{
+	background:url('../images/extjs_icons/table/table_error.png') no-repeat center center;
+}
+.icon-images{
+	background:url('../images/extjs_icons/images.png') no-repeat center center;
+}
+.icon-xj{
+	background:url('../images/extjs_icons/tag/tag_blue_edit.png') no-repeat center center;
+}
+.icon-model{
+	background:url('../images/extjs_icons/plugin.png') no-repeat center center;
+}
+.icon-permission{
+	background:url('../images/extjs_icons/key.png') no-repeat center center;
+}

@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 18px;
+}
+
+.main {
+	width: 480px;
+	margin: 0px auto;
+}
+
+.logo {
+	margin-top: 15px;
+	width: 480px;
+}
+
+.logo img {
+	padding-left: 110px;
+	width: 250px;
+	height: 130px;
+}
+
+.content {
+	margin-top: 5px;
+	width: 480px;
+}
+
+.buttons {
+	padding: 5px 140px;
+}
+
+.btn {
+	font-weight: bold;
+	background: url(../images/button00.png) no-repeat;
+	width: 80px;
+	height: 30px;
+	border: none;
+	font-size: 14px;
+}

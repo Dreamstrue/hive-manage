@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hive-manage"
+  id="myeclipse.1392860698611"
+  context-root="/hive-manage"
+  j2ee-spec="5.0"
+  archive="hive-manage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

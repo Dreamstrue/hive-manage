@@ -1,0 +1,113 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	text-align: center
+}
+
+@media screen and (min-width: 10px) and (max-width: 320px) {
+	.main {
+		width: 300px;
+		margin: 0px auto;
+		background: #07B2E6;
+		padding: 30px 30px 130px 30px;
+	}
+	
+	.btn1 {
+		font-weight: bold;
+		background: url(../images/1.png) no-repeat;
+		width: 150px;
+		height: 82px;
+		border: none;
+		cursor: hand;
+		margin:0px 10px;
+	}
+	
+	.btn2 {
+		font-weight: bold;
+		background: url(../images/2.png) no-repeat;
+		width: 150px;
+		height: 82px;
+		border: none;
+		cursor: hand;
+		margin:0px 10px;
+	}
+}
+
+@media screen and (min-width: 280px) and (max-width: 480px) {
+	.main {
+		width: 300px;
+		margin: 0px auto;
+		background: #07B2E6;
+		padding: 5px 30px 80px 30px;
+	}
+	
+	.btn1 {
+		font-weight: bold;
+		background: url(../images/1.jpg) no-repeat;
+		width: 120px;
+		height: 82px;
+		border: none;
+		cursor: hand;
+		margin:0px 10px;
+	}
+	
+	.btn2 {
+		font-weight: bold;
+		background: url(../images/2.jpg) no-repeat;
+		width: 120px;
+		height: 82px;
+		border: none;
+		cursor: hand;
+		margin:0px 10px;
+	}
+	
+	
+	.text p {
+		font-size: 24px;
+		text-align: center;
+		line-height: 36px;
+		color: #fff;
+		text-indent: 2em
+	}
+}
+
+@media screen and (min-width: 500px) and (max-width: 1024px) {
+	.main {
+		width: 600px;
+		margin: 0px auto;
+		background: #07B2E6;
+		padding: 30px 30px 130px 30px;
+	}
+	.btn1 {
+		font-weight: bold;
+		background: url(../images/1.png) no-repeat;
+		width: 275px;
+		height: 82px;
+		border: none;
+		cursor: hand;
+		margin:0px 10px;
+	}
+	
+	.btn2 {
+		font-weight: bold;
+		background: url(../images/2.png) no-repeat;
+		width: 275px;
+		height: 82px;
+		border: none;
+		cursor: hand;
+		margin:0px 10px;
+	}
+	
+	.text p {
+		font-size: 30px;
+		text-align: center;
+		line-height: 36px;
+		color: #fff;
+		text-indent: 2em
+	}
+}
+
+
+
+
+

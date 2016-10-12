@@ -1,0 +1,45 @@
+/* ¹«ÓÃCSS */
+a,area {    
+   blr:expression(this.onFocus=this.blur());   
+}   
+  
+:focus {    
+    outline: none;    
+}  
+*{ margin:0; padding:0; }
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0; padding:0; }
+body{ font:12px Arial, Helvetica, sans-serif,"ËÎÌå"; background:#fff;}
+table { border-collapse:collapse; border-spacing:0; }
+img{ vertical-align:top;border:0; }
+ol, ul { list-style:none; }
+li{ list-style:none;}
+a{ text-decoration:none; }
+a:hover { text-decoration:none; }
+p{ line-height:18px; }
+input,select{ font-size:12px; vertical-align:middle; }
+strong { font-weight:800; }
+.fb{font-weight:bold;}
+
+.fl{ float:left; display:inline;}
+.fr{ float:right; display:inline;}
+.clear{clear:both;margin:0;parding:0;height:0px;font-size:0px;}
+.h5,
+.h10,
+.h15,
+.h20,
+.h30,
+.h50,
+.h100
+{ clear:both;margin:0;parding:0;}
+.h5{ height:5px;}
+.h10{ height:10px;}
+.h15{ height:15px;}
+.h30{ height:30px;}
+.h20{ height:20px;}
+.h50{ height:50px;}
+.h100{ height:100px;}
+
+.f14{ font-size:14px;}
+.lh20{line-height:20px;}
+.lh25{line-height:25px;}
+.lh30{line-height:30px;}

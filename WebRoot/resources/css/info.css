@@ -1,0 +1,32 @@
+#div1{
+	float: left;
+	font-size: 12px;
+	margin-top: 5px;
+	margin-bottom: 8px;
+}
+#div2{
+}
+.integrity_table{
+	border-style: solid;
+	border-color: silver;
+	border-width: thin;
+	
+}
+.integrity_table th{
+	text-align: right;
+	padding: 3px;
+	background-color: #F5F5F5;
+	font-size: 14px;
+	font-style: normal;
+	font-family: serif;
+}
+
+.tt{
+	text-align: right;
+	padding: 3px;
+	background-color: #F5F5F5;
+	font-size: 14px;
+	font-style: normal;
+	font-family: serif;
+	font-weight: bold;
+}
